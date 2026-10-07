@@ -36,6 +36,7 @@ The goal of this project was to understand how a mathematical algorithm can be t
 3. Applying digital design concepts to implement the algorithm in Logisim
 
 The entire circuit was designed from scratch.
+The average error was ~0.55% and only 16 bytes* of LuTs is used
 
 ## Features
 
