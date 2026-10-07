@@ -1,7 +1,7 @@
 <img width="1043" height="712" alt="Screenshot 2026-10-07 195942" src="https://github.com/user-attachments/assets/05e96bd6-d4e2-49b5-955f-5f1c413a482b" />
 # CORDIC Hardware Implementation
 
-A gate-level hardware implementation of the **CORDIC (COordinate Rotation DIgital Computer)** algorithm, built from scratch in **Logisim**.
+A hardware implementation of the **CORDIC (COordinate Rotation DIgital Computer)** algorithm, built from scratch in **Logisim**.
 
 Given an angle in **degrees or radians**, the circuit computes **sine, cosine and tangent** using an iterative CORDIC datapath with **IEEE 754 half-precision (FP16)** arithmetic. No software trigonometric functions are used to produce the results.
 
